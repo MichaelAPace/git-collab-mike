@@ -1,1 +1,4 @@
 testes, testes,,,,1,2,3....
+
+Warning ,
+Farts occurred on the akyuna.txt file
